@@ -1,0 +1,59 @@
+
+/************sign in**********/
+
+.body
+{
+ 
+}
+
+
+.head
+{
+	    
+height: 120px;
+font-size: 100px;
+text-align: center;
+color:black;
+margin-top: 0px;
+
+}
+.host{
+	
+	font-size: 100px;
+}
+.hr{
+    border: 1px solid black;
+}
+
+
+.fieldset{
+ 
+    border: 3px black solid
+}
+
+.f1{
+    border: 1px black solid;
+    }
+
+    
+    .signin
+    
+      {
+        
+        width: 350px;
+          margin-top: -25%;
+          float: right;
+           margin-right: 125px;
+      }
+      .hr{
+          border: 1px solid black;
+      }
+      #submit1{
+          margin-left: 70px; 
+          margin-bottom: 10px;
+      }
+    
+    
+    
+    
+    

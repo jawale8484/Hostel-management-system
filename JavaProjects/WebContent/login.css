@@ -1,0 +1,46 @@
+
+
+
+body {
+  background-image: url("back.jsp.jpg");
+ background-repeat: repeat-y; 
+  
+
+}
+
+
+
+
+.host{
+	    
+height: 120px;
+font-size: 100px;
+text-align: center;
+color:black;
+margin-top: 0px;
+	
+}
+.hr{
+    border: 1px solid black;
+}
+---------------------
+
+.login
+{
+    width: 300px;    
+    padding-botom:150px;
+    margin-top:-30%;
+    float: right;
+     
+}
+.fieldset{
+ 
+    border: 3px black solid;
+    float: right;
+    margin-right: 80px;
+}
+
+
+
+-----------------------------
+

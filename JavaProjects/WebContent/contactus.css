@@ -1,0 +1,55 @@
+
+
+body{
+	
+	
+}
+
+.host{
+	    
+height: 120px;
+font-size: 100px;
+text-align: center;
+color:black;
+margin-top: 0px;
+	
+}
+.hr{
+    border: 1px solid black;
+}
+
+  .topnav {
+    overflow: hidden;
+    background-color: black;
+    /* opacity: 0.5; */
+  }
+  
+  .topnav a{
+    color: #f2f2f2;
+    padding: 14px;
+    text-decoration: none;
+    font-size: 30px; 
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .topnav{
+    margin-left: 6%;
+    text-align: center;
+    width: 1200px;
+  }
+
+
+.box{
+  border: 1px black solid;
+  margin-right: 60%;
+  margin-left: 2%;
+}
+.info{
+  margin-left: 42%;
+  margin-right: 31%;
+  margin-top: -28%;	
+  border: 1px black solid;
+ }
